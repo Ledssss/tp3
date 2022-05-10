@@ -101,6 +101,9 @@ Après validation du fichier, le .class n'apparait plus dans le `git status`
 :pizza: 
 
 
+Nous avons maintenant crée une nouvelle branche de test
+
+
 
 Pour cela, on va crée '.gitignore', une liste de type de fichier que l'on ne veut pas voir dans `git status`
 Après validation du fichier, le .class n'apparait plus dans le `git status`
